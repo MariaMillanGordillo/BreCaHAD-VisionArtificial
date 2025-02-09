@@ -1,5 +1,5 @@
 # BreCaHAD-VisionArtificial
-Este repositorio recoge el código y los resultados obtenidos de la detección de tumores mediante diversos modelos de YOLO con el dataset de BreCaHAD. que recoge imágenes hispatológicas de cáncer de mama.
+Este repositorio recoge el código y los resultados obtenidos de la detección de tumores mediante diversos modelos de YOLO con el dataset de BreCaHAD, que recoge imágenes hispatológicas de cáncer de mama. (https://www.kaggle.com/datasets/truthisneverlinear/brecahad)
 
 En la carpeta de resultados se encuentran todas las métricas y gráficas de los entrenamientos realizados con los diversos modelos. Asimismo, están divididos en diferentes Jupyter Notebook cada uno de los modelos probados con sus resultados específicos y el data.yaml que es común para todos.
 
