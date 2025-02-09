@@ -5,7 +5,7 @@ En la carpeta de resultados se encuentran todas las métricas y gráficas de los
 
 - El archivo "etiquetar_imagen_test.py" etiqueta las imagenes con exactitud acorde al json correspondiente.
 - El archivo "editar_cocojson.py" ha sido utilizado para editar las etiquetas y eliminar las dos clases menos representativas del dataset.
-- -El archivo "coco_to_yolo.py" ha sido utilizado para adaptar los archivos json con el etiquetado a los modelos de YOLO.
+- El archivo "coco_to_yolo.py" ha sido utilizado para adaptar los archivos json con el etiquetado a los modelos de YOLO.
 
 ## Creadores del proyecto
 
